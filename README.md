@@ -242,4 +242,4 @@ This repository serves as the official landing page for Left 4 Dead 2. The softw
 **Get the most recent version of Left 4 Dead 2 today!**
 
 ---
-**Last updated:** 2026-11-05 11:53:09 UTC
+**Last updated:** 2026-11-05 19:32:01 UTC
